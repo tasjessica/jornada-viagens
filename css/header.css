@@ -14,11 +14,11 @@ header {
   height: 64px;
 }
 
-.logo-mobile {
+.img-mobile {
   display: block;
 }
 
-.logo-desktop {
+.img-desktop {
   display: none;
 }
 
@@ -95,8 +95,8 @@ nav {
   }
 }
 
-@media screen and (min-width: 1680px) {
+@media screen and (min-width: 1920px) {
   header {
-    padding: 38px 192px;
+    padding: 38px 160px;
   }
 }
